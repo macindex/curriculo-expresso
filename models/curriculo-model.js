@@ -1,3 +1,4 @@
+
 const data = {
     
 title: 'Meu currículo',
